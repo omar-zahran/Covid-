@@ -1,4 +1,4 @@
-# COVID SQL Data Analysis Project
+# COVID (SQL Data Analysis Project)
 
 ## Overview
 This project aims to analyze and explore COVID-19 data using SQL queries to understand the global impact of the pandemic. 
